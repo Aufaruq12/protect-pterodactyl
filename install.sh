@@ -15,7 +15,7 @@ echo -e "${YELLOW}© Protect By @MizuutSkiiProject${NC}"
 echo -e "${BLUE}===========================================${NC}"
 
 # URL download file proteksi - PASTIKAN URL INI BENAR
-PROTEK_URL="https://github.com/nexvradev/pterodactyl-protection/raw/refs/heads/main/proteksi/Protect-panel.zip"
+PROTEK_URL="https://github.com/Aufaruq12/protect-pterodactyl/blob/main/proteksi/Protect-panel.zip"
 PANEL_DIR="/var/www/pterodactyl"
 TEMP_DIR="/tmp/pterodactyl-proteksi-$$"
 
